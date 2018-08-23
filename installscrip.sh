@@ -20,7 +20,7 @@ apt-get install node-less -y
 sleep 3s
 clear
 echo -e "descargando e installdo script odoo 11"
- wget https://raw.githubusercontent.com/Yenthe666/InstallScript/11.0/odoo_install.sh
+ wget https://raw.githubusercontent.com/fanguloa/scripts/master/installscrip.sh
  chmod +x odoo_install.sh
  ./odoo_install.sh
 echo "Odoo 11 Instalado"
